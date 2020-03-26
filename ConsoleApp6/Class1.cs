@@ -12,5 +12,8 @@ namespace ConsoleApp6
 
 
         }
+        
+        public void metoda blablabla()=Console.Writeline("nova metoda");
+          
     }
 }
