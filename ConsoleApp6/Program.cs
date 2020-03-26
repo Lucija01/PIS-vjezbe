@@ -7,9 +7,12 @@ namespace ConsoleApp6
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            
 
             //komentar
             Console.WriteLine("Nova promjena!");
+            //
+            Console.Writeline("neka nova promjena");
         }
     }
 }
