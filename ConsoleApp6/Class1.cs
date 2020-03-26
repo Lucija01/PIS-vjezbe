@@ -12,7 +12,7 @@ namespace ConsoleApp6
 
 
         }
-<<<<<<< HEAD
+        //ispravljeno
         public void DDD()
         {
 
