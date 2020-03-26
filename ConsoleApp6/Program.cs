@@ -11,7 +11,7 @@ namespace ConsoleApp6
 
             //komentar
             Console.WriteLine("Nova promjena!");
-            //
+            //komentar na novu promjenu
             Console.Writeline("neka nova promjena");
         }
     }
