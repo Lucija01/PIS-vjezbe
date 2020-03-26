@@ -12,10 +12,16 @@ namespace ConsoleApp6
 
 
         }
+<<<<<<< HEAD
         public void DDD()
         {
 
 
         }
+=======
+        
+        public void metoda blablabla()=Console.Writeline("nova metoda");
+          
+>>>>>>> 64ce7e078e9daffb3acb1eaeb289bed4d828fd18
     }
 }
