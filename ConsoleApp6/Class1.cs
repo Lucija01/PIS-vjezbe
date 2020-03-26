@@ -12,5 +12,10 @@ namespace ConsoleApp6
 
 
         }
+        public void DDD()
+        {
+
+
+        }
     }
 }
