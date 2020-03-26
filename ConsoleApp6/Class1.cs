@@ -6,5 +6,6 @@ namespace ConsoleApp6
 {
     class Class1
     {
+        public void Metoda()=> Console.Writeline("dodanno");
     }
 }
